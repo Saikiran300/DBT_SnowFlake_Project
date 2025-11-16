@@ -38,13 +38,6 @@ This project was developed using `dbt` and connected to a Snowflake warehouse. T
 
 ---
 
-## 👨‍💻 Contributors
-
-- **Sai Kiran Reddy Pothuganti**
-- **Vivek Varma Rudraraju**
-
----
-
 ## 🧠 Technologies Used
 
 - `dbt (Data Build Tool)`
